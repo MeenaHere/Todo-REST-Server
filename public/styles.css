@@ -1,0 +1,29 @@
+body{
+    background: rgb(224, 221, 221);
+    margin: auto;
+    padding-top: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    background: white;
+    width: 50vmin;
+    margin: auto;
+    text-align: center;
+    border: 3px solid rgb(7, 151, 151);
+}
+
+h1{
+    color: rgb(7, 151, 151);
+}
+
+ul{
+   justify-content: space-around;
+}
+
+li{
+    list-style: none;
+    color: rgb(241, 50, 175);
+    padding: 2px;
+}
+
